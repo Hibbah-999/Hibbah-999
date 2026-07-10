@@ -7,7 +7,11 @@
 </p>
 
 <h1 align="center"><b>HIBBAH FATIMA</b></h1>
-<h3 align="center">AI & Software Engineering Undergraduate | Frontend UI Developer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=41CD52&center=true&vCenter=true&width=500&lines=BS+Artificial+Intelligence;Frontend+UI%2FUX+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   A 3rd-semester undergraduate at NUST Balochistan Campus specializing in Artificial Intelligence. I focus on creating intuitive, seamless front-end user experiences and bridging the gap between aesthetic design and complex backend logic. Currently seeking opportunities to apply my technical skills to real-world software and AI challenges.
