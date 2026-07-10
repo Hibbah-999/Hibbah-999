@@ -2,7 +2,7 @@
   <img src="https://github.com/Hibbah-999/Hibbah-999/blob/main/Black%20and%20Dark%20Red%20Modern%20Minimalist%20Final%20Project%20Docs%20Banner.png" alt="Profile Banner">
 </p>
 <p align="center">
-  <img src="https://path_to_your_hosted_image_1.png" alt="Hibbah Fatima - Professional Header" width="100%">
+  <img src="https://github.com/Hibbah-999/Hibbah-999/blob/main/Black%20and%20White%20Artistic%20Woman%20Portrait%20Instagram%20Profile%20Picture%20(1).png" alt="Hibbah Fatima - Professional Header" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Hibbah Fatima 👋</h1>
