@@ -26,7 +26,7 @@
 ---
 
 ### ⚡ Tech Stack & Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
@@ -48,7 +48,7 @@
 
 ### 📈 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hibbah-999&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=Hibbah-999&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hibbah-999&theme=radical" alt="GitHub Streak">
 </p>
 
@@ -60,7 +60,7 @@
 ---
 
 ### 🔗 Let's Connect
-<p align="left">
+<p align="center">
   <a href="www.linkedin.com/in/hibbah-fatima-a73b2841b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hibbahfatima999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
