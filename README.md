@@ -48,6 +48,12 @@
 *(More ongoing projects coming soon!)*
 
 ---
+
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hibbah-999/Hibbah-999/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
