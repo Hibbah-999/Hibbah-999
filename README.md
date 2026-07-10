@@ -3,7 +3,11 @@
 </p>
 
 <h1 align="center">Hi there, I'm Hibbah Fatima 👋</h1>
-<h3 align="center">BS Artificial Intelligence | Backend & Logic Design Enthusiast</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=41CD52&center=true&vCenter=true&width=500&lines=BS+Artificial+Intelligence;Frontend+UI%2FUX+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   I am a 3rd-semester undergraduate student at NUST Balochistan Campus. I specialize in backend architecture, C++ development, and digital logic design. From building automated management systems to engineering smart transit algorithms, I focus on writing clean, efficient, and secure code.
