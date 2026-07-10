@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1500x500.png?text=Syed+Zulqarnain+Haider+-+BS+Artificial+Intelligence" alt="Profile Banner">
+  <img src="https://github.com/Hibbah-999/Hibbah-999/blob/main/Black%20and%20Dark%20Red%20Modern%20Minimalist%20Final%20Project%20Docs%20Banner.png" alt="Profile Banner">
 </p>
 
 <h1 align="center">Hi there, I'm Hibbah Fatima 👋</h1>
