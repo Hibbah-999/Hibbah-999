@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Hibbah-999&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <p align="center">
   <img src="https://github.com/Hibbah-999/Hibbah-999/blob/main/Black%20and%20Dark%20Red%20Modern%20Minimalist%20Final%20Project%20Docs%20Banner.png" alt="Profile Banner">
 </p>
