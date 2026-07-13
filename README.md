@@ -36,13 +36,44 @@
 
 ---
 
-### 🌐 Featured Projects
-*   **Hospital Management System** (Frontend & UI Integration)
-*   **Smart Transit System** (Architecture Design)
-*   **Maze Solving Game** (Algorithmic Logic)
-*   **Encrypted Diary** (Security Algorithms)
-*   **Smart Home Automation** (Proteus Logic Design)
-*   **4-Bit ALU** (Component Wiring)
+## 🚀 Featured Projects
+
+Here are some of the complex systems and applications I've engineered:
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚆 Smart Transit</h3>
+      <p align="center">A multi-tier <b>C++ GUI application</b> built with complex logic, featuring highly customized string manipulation and custom date classes for sophisticated data handling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 Home Smart System</h3>
+      <p align="center">A hybrid hardware-software project. Engineered the core architecture using <b>Digital Logic Design in Proteus</b> and paired it with a smooth, fully animated web-based interactive interface.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 Maze Solver</h3>
+      <p align="center">An advanced C++ algorithmic application that heavily utilizes <b>recursion and backtracking</b> to compute optimal paths through dynamic environments.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 HMPS</h3>
+      <p align="center">A comprehensive <b>Hospital Management System</b> designed to securely handle, route, and organize administrative healthcare data efficiently.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">♟️ Chess Engine</h3>
+      <p align="center">A fully functional, logic-driven implementation of the classic board game, handling complex movement rules and game-state validations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Encrypted Diary</h3>
+      <p align="center">A secure, private data-logging application focused on cryptographic principles to keep user entries completely safe and localized.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
